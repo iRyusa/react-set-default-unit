@@ -1,0 +1,29 @@
+{
+  "name": "react-set-default-unit",
+  "version": "1.0.0",
+  "description": "Set a default unit on a style attribute for a React element",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/iRyusa/react-set-default-unit.git"
+  },
+  "keywords": [
+    "react",
+    "0.15",
+    "unit",
+    "style"
+  ],
+  "author": "iRyusa",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/iRyusa/react-set-default-unit/issues"
+  },
+  "homepage": "https://github.com/iRyusa/react-set-default-unit#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
