@@ -1,6 +1,6 @@
 {
   "name": "react-set-default-unit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Set a default unit on a style attribute for a React element",
   "main": "index.js",
   "scripts": {
